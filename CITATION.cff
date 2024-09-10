@@ -4,7 +4,6 @@ type: software
 title: 'mrvalidation: madrat data preparation for validation purposes'
 version: 2.60.1
 date-released: '2024-09-10'
-
 abstract: Package contains routines to prepare data for validation exercises.
 authors:
 - family-names: Bodirsky
