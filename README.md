@@ -48,7 +48,6 @@ A BibTeX entry for LaTeX users is
   title = {mrvalidation: madrat data preparation for validation purposes},
   author = {Benjamin Leon Bodirsky and Stephen Wirth and Kristine Karstens and Florian Humpenoeder and Mishko Stevanovic and Abhijeet Mishra and Anne Biewald and Isabelle Weindl and Felicitas Beier and David Chen and Michael Crawford and Debbora Leip and Edna {Molina Bacca} and Ulrich Kreidenweis and Amsalu {W. Yalew} and Patrick {von Jeetze} and Xiaoxi Wang and Jan Philipp Dietrich and Marcos Alves},
   year = {2024},
-
   note = {R package version 2.60.1},
   url = {https://github.com/pik-piam/mrvalidation},
   doi = {10.5281/zenodo.4317826},
